@@ -5,6 +5,8 @@ public class Gym {
         System.out.println("Lets work out today");
 
         //lets do cardio too
+
+        //And go back to study afterwards
     }
 }
 
