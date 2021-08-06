@@ -4,3 +4,4 @@ public class MohamedLogOut {
 
     // work is done
 }
+
